@@ -6,7 +6,7 @@ var peopleArray = [
     {
         "name": "Brett",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             5,
@@ -24,7 +24,7 @@ var peopleArray = [
     {
         "name": "Jessica",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             1,
@@ -42,7 +42,7 @@ var peopleArray = [
     {
         "name": "Ashlyn",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             3,
@@ -60,7 +60,7 @@ var peopleArray = [
     {
         "name": "Carrie",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             5,
@@ -78,7 +78,7 @@ var peopleArray = [
     {
         "name": "Luke",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             1,
@@ -96,7 +96,7 @@ var peopleArray = [
     {
         "name": "Kyle",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             5,
@@ -114,7 +114,7 @@ var peopleArray = [
     {
         "name": "Liz",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             3,
@@ -132,7 +132,7 @@ var peopleArray = [
     {
         "name": "Lyanna",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             2,
@@ -150,7 +150,7 @@ var peopleArray = [
     {
         "name": "Wes",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             5,
@@ -168,7 +168,7 @@ var peopleArray = [
     {
         "name": "Connor",
 
-        "photo": "stock.jpeg",
+        "photo": "/stock.jpeg",
 
         "scores": [
             2,
